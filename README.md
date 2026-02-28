@@ -8,15 +8,12 @@ I’m a Computer Science student and Full-Stack Developer passionate about build
 - Full-stack development (Frontend, Backend, Database)
 - Building REST APIs and scalable backend services
 - Developing AI-powered applications using LangChain & LangGraph
-- 
 ---
 
 ### 🌱 Currently learning
 - LLM application development & AI agents  
 - FastAPI and backend architecture  
-- System design and performance optimization  
-- Data Structures & Algorithms  
-
+- System design and performance optimization   
 ---
 
 ### 🛠️ Tech Stack
@@ -25,14 +22,7 @@ I’m a Computer Science student and Full-Stack Developer passionate about build
 **Backend:** Node.js, FastAPI, REST APIs  
 **Database:** MySQL, MongoDB 
 **Tools:** Git, GitHub, Figma, VS Code  
-
 ---
-
-### 📌 Featured Projects
-- **Office Connect** – Internal file sharing and communication system  
-- **WorldVoice** – UI/UX redesign and backend improvements for a charity platform  
-- **MHRP** – Full-stack public health awareness platform  
-
 
 ### ⚡ About me
 I enjoy building practical solutions, learning new technologies, and continuously improving as a Full-Stack and AI developer.
